@@ -15,4 +15,6 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/vitor-guilherme-56992817a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:alfredo.neg9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
