@@ -1,4 +1,4 @@
-## Hi there I'm Vitor! 💪
+## Hi there I'm Vitor! Currently learning about this whole world of technology and development 💪
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGuilherme&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGuilherme&layout=compact&theme=synthwave)](https://github.com/VitorGuilherme/github-readme-stats)
