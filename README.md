@@ -1,4 +1,4 @@
-## Hi there I'm Vitor! Science Computing student and Softaware Developer Jr!
+## Hi there I'm Vitor! Science Computing student and Softaware Developer!
 
 
 
