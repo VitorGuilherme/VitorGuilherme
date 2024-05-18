@@ -17,7 +17,7 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/vitor-guilherme-56992817a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:vitor.gsa@outlook.com.com"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+  <a href = "mailto:vitor.gsa@outlook.com.com" height="30" width="40"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank"></a>
 </div>
 
 
