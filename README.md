@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Vitor!</h1>
 
 <p align="center">
-  🎓 Computer Science student &<br>
+  🎓 Computer Science analyst &<br>
   💻 Software Developer | Mobile & QA Automation
 </p>
 
